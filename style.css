@@ -2,10 +2,16 @@ body {
     background: #CCCCCC;
 }
 
+h1{text-aling; color-interpolation-filters:
+}
+
 p {
     text-aling: center;
 }
 
+#missao {
+    
+}
 em strong {
-    color: red;
+    color: #FF0000
 }
