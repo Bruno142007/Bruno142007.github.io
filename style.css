@@ -2,18 +2,10 @@ body {
     background: #CCCCCC
 }
 
-h1{
-    text-aling; center
-}
-
 p {
-    text-aling: center;
-}
-
-#missao {
-    front-size: 20px
+    text-align: center;
 }
 
 em strong {
-    color: #FF0000
+    color: #FF0000;
 }
